@@ -1,0 +1,264 @@
+{
+  "framework": "SCALE",
+
+  "project": {
+    "title": "Ancient Tamil Culture – A Journey Through Time",
+    "purpose": "Create a cinematic visual representation of ancient Tamil culture, showing the lifestyle, traditions, arts, agriculture, architecture, clothing, food, trade, festivals and values of Tamil civilization.",
+    "platform": "Instagram Reels / YouTube Shorts",
+    "duration": "45-60 seconds",
+    "aspect_ratio": "9:16",
+    "language": "Tamil",
+    "visual_style": "Epic cinematic historical documentary",
+    "target_audience": [
+      "Tamil people",
+      "Students",
+      "History enthusiasts",
+      "Culture enthusiasts",
+      "YouTube and Instagram audiences"
+    ]
+  },
+
+  "S": {
+    "subject": {
+      "primary": "Ancient Tamil civilization and traditional Tamil way of life",
+
+      "cultural_elements": [
+        "Traditional Tamil village",
+        "Paddy fields and agriculture",
+        "Tamil farmers",
+        "Bullock carts",
+        "Jallikattu",
+        "Pongal celebration",
+        "Sangam-era lifestyle",
+        "Traditional Tamil clothing",
+        "Women wearing sarees",
+        "Men wearing veshti",
+        "Pottery making",
+        "Handloom weaving",
+        "Traditional blacksmith",
+        "Woodworking",
+        "Silambam martial arts",
+        "Parai drumming",
+        "Bharatanatyam-inspired classical dance",
+        "Traditional Tamil food",
+        "Palm trees",
+        "Temple architecture",
+        "Ancient Tamil inscriptions",
+        "Palm-leaf manuscripts",
+        "Ancient Tamil literature",
+        "Traditional boats",
+        "Maritime trade",
+        "Ancient marketplace",
+        "Traditional houses",
+        "Kolam",
+        "Oil lamps",
+        "Village festivals"
+      ],
+
+      "central_character": "A traditional Tamil farmer representing ancient Tamil rural life"
+    }
+  },
+
+  "C": {
+    "composition": {
+      "overall_concept": "One continuous cinematic journey through ancient Tamil Nadu",
+
+      "visual_story": [
+        "Dawn over an ancient Tamil village",
+        "Agricultural life",
+        "Traditional crafts",
+        "Family and community life",
+        "Arts and martial traditions",
+        "Temple and spiritual architecture",
+        "Festival celebration",
+        "Maritime trade",
+        "Ancient Tamil literature and inscriptions",
+        "Grand final cultural composition"
+      ],
+
+      "camera": [
+        "Epic wide-angle establishing shots",
+        "Slow cinematic camera movement",
+        "Aerial village shots",
+        "Close-up details of traditional crafts",
+        "Low-angle temple shots",
+        "Slow-motion cultural moments",
+        "Macro shots of pottery and palm-leaf manuscripts",
+        "Smooth cinematic transitions"
+      ],
+
+      "composition_rule": "Blend multiple cultural elements naturally into the same environment without making the scene look like a collage."
+    }
+  },
+
+  "A": {
+    "action": {
+
+      "scene_1": {
+        "duration": "0-6 seconds",
+        "action": "Sunrise over an ancient Tamil village surrounded by green paddy fields, palm trees and traditional houses. Farmers begin their morning activities.",
+        "voiceover": "Idhu oru nilam mattum illa... idhu oru naagarigathin varalaru."
+      },
+
+      "scene_2": {
+        "duration": "6-12 seconds",
+        "action": "Tamil farmers work in paddy fields using traditional agricultural methods. Bullocks pull a wooden plough while farmers cultivate the land.",
+        "voiceover": "Vivasayam... Tamilanin vaazhkaiyin mudhal adaiyaalam."
+      },
+
+      "scene_3": {
+        "duration": "12-18 seconds",
+        "action": "Traditional artisans work with clay, wood and metal. A potter creates a clay vessel while another artisan works with traditional tools.",
+        "voiceover": "Kai thozhil... kalai... thiramai... thalaimurai thalaimuraiaaga valarntha paarambariyam."
+      },
+
+      "scene_4": {
+        "duration": "18-24 seconds",
+        "action": "Women weave traditional textiles on a handloom while another woman creates a detailed kolam in front of a traditional house.",
+        "voiceover": "Noolilum... kolathilum... Tamilanin azhagu pesiyadhu."
+      },
+
+      "scene_5": {
+        "duration": "24-30 seconds",
+        "action": "Young Tamil warriors practice Silambam in an open village space while Parai drummers perform nearby.",
+        "voiceover": "Veeramum kalaiyum... Tamil panpaattin iru kangal."
+      },
+
+      "scene_6": {
+        "duration": "30-36 seconds",
+        "action": "A grand ancient Tamil temple appears. Stone pillars, sculptures and Tamil inscriptions are shown in cinematic close-ups.",
+        "voiceover": "Kallil ezhuthiya varalaaru... indrum nam mun pesugiradhu."
+      },
+
+      "scene_7": {
+        "duration": "36-42 seconds",
+        "action": "A vibrant Pongal celebration. Families gather around a traditional Pongal pot, decorated bulls appear in the background and villagers celebrate together.",
+        "voiceover": "Vizhaavilum... uravilum... samudhaaya ottrumai thaan Tamil panpaadu."
+      },
+
+      "scene_8": {
+        "duration": "42-48 seconds",
+        "action": "Transition to an ancient Tamil port. Traditional wooden ships leave the harbour while merchants exchange goods with overseas traders.",
+        "voiceover": "Kadal kadandhum Tamilanin payanam thodarnthadhu."
+      },
+
+      "scene_9": {
+        "duration": "48-54 seconds",
+        "action": "Palm-leaf manuscripts, ancient Tamil writing and inscriptions appear. Camera slowly moves across the Tamil letters.",
+        "voiceover": "Mozhiyaiyum... arivaiyum... ulagathukku kodutha oru pazhamaiyana naagarigam."
+      },
+
+      "scene_10": {
+        "duration": "54-60 seconds",
+        "action": "All cultural elements visually blend into one majestic cinematic frame: farmer, temple, Tamil script, traditional art, paddy fields, Parai, Silambam and ancient Tamil architecture under a dramatic sunrise.",
+        "voiceover": "Idhu verum pazhamai alla... idhu nam adaiyaalam. Idhu Tamil."
+      }
+    }
+  },
+
+  "L": {
+    "look": {
+      "style": "Photorealistic cinematic historical documentary",
+      "era": "Ancient and traditional Tamil cultural setting",
+      "environment": "Authentic South Indian landscape",
+      "architecture": "Traditional Tamil architecture inspired by historical structures",
+      "clothing": "Historically appropriate traditional Tamil clothing",
+      "lighting": "Warm sunrise, golden-hour sunlight and natural firelight",
+      "atmosphere": "Nostalgic, majestic, emotional and culturally respectful",
+      "textures": [
+        "Natural stone",
+        "Clay",
+        "Wood",
+        "Cotton",
+        "Silk",
+        "Palm leaves",
+        "Bronze",
+        "Traditional agricultural tools"
+      ],
+      "cinematography": "Epic historical documentary with cinematic depth of field",
+      "quality": "Ultra-realistic, high detail, premium cinematic quality"
+    }
+  },
+
+  "E": {
+    "effects": {
+      "transitions": [
+        "Cinematic match cuts",
+        "Smoke and dust transitions",
+        "Golden light transitions",
+        "Slow-motion transitions",
+        "Environmental camera movement",
+        "Seamless scene blending"
+      ],
+
+      "visual_effects": [
+        "Subtle atmospheric dust",
+        "Natural sunlight rays",
+        "Temple oil-lamp glow",
+        "Soft smoke from traditional cooking fire",
+        "Realistic agricultural dust",
+        "Subtle cinematic particles"
+      ],
+
+      "sound_design": [
+        "Traditional Tamil folk instruments",
+        "Parai rhythm",
+        "Nadaswaram",
+        "Thavil",
+        "Village ambience",
+        "Bird sounds",
+        "Bull sounds",
+        "Blacksmith hammer sounds",
+        "Traditional market ambience",
+        "Ocean waves"
+      ],
+
+      "music": {
+        "style": "Epic Tamil folk orchestral fusion",
+        "mood": "Proud, emotional, majestic and inspirational",
+        "intensity": "Gradually increases toward the final scene"
+      }
+    }
+  },
+
+  "final_output": {
+    "on_screen_text": [
+      "தமிழ்",
+      "ஒரு மொழி மட்டும் அல்ல...",
+      "ஒரு நாகரிகம்",
+      "ஒரு பண்பாடு",
+      "ஒரு அடையாளம்"
+    ],
+
+    "final_text": "இது வெறும் பழமை அல்ல... இது நம் அடையாளம். இது தமிழ்.",
+
+    "voice_style": "Deep, emotional and powerful Tamil male documentary narration",
+
+    "subtitle_style": "Elegant Tamil typography with minimal text",
+
+    "ending": "Tamil cultural elements slowly blend together into a majestic cinematic frame, ending with the Tamil word 'தமிழ்' appearing against a sunrise."
+  },
+
+  "negative_prompt": [
+    "No modern buildings",
+    "No modern vehicles",
+    "No smartphones",
+    "No modern clothing",
+    "No modern machinery",
+    "No western architecture",
+    "No futuristic elements",
+    "No cartoon style",
+    "No fantasy armor",
+    "No exaggerated costumes",
+    "No inaccurate cultural symbols",
+    "No distorted human faces",
+    "No extra fingers",
+    "No deformed hands",
+    "No artificial-looking people",
+    "No random text",
+    "No watermark",
+    "No modern logos",
+    "No cluttered collage",
+    "No low-resolution visuals"
+  ]
+}
